@@ -1,0 +1,161 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Montserrat", sans-serif;
+}
+p {
+  color: #8f8f8f;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
+.big-heading {
+  font-family: "Montserrat", sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+.section-heading {
+  font-weight: bold;
+  line-height: 1.5 rem;
+}
+.testimonial-text {
+  font-weight: bold;
+  line-height: 1.5 rem;
+}
+.price-text {
+  font-weight: bold;
+  line-height: 1.5 rem;
+}
+.feature-title {
+  font-weight: bold;
+  padding-top: 7%;
+}
+.container-fluid {
+  padding: 5% 17% !important;
+}
+
+/* .title-section {
+  padding: 7% 15%;
+} */
+.icon {
+  padding-left: 1%;
+  padding-left: 1%;
+}
+
+.endhead {
+  font-family: "Montserrat", sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.pricing-column {
+  padding: 3% 3% 3% 3%;
+}
+.carousel-item {
+  padding: 7% 15%;
+}
+.image {
+  position: absolute;
+  transform: rotate(20deg);
+  width: 25%;
+}
+
+@media (max-width: 993px) {
+  #title {
+    text-align: center;
+  }
+  .image {
+    position: static;
+    transform: rotate(0);
+    width: 70%;
+  }
+}
+
+.element {
+  text-align: center;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.rotated {
+  padding-top: 50px;
+}
+.img {
+  color: rgb(255, 0, 106);
+}
+.testimonials-image {
+  width: 10%;
+  margin: 2%;
+  border-radius: 50%;
+}
+.press-logo {
+  width: 15%;
+  margin: 15px 20px 50px;
+}
+#press {
+  text-align: center;
+  background-color: rgb(255, 0, 106);
+}
+.img:hover {
+  color: #1feb0d;
+}
+.download-button {
+  margin: 5% 3% 5% 0%;
+}
+.heading1 {
+  padding-top: 300px;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  padding-bottom: 0px 0px 4.5px;
+  /* font-size: 2.5rem; */
+}
+.nav-item {
+  padding: 0px 18px;
+}
+
+.nav-link {
+  font-family: "Montserrat-light", sans-serif;
+}
+
+.iphone {
+  width: 35%;
+}
+.buttond {
+  margin-right: 2%;
+}
+#testimonials {
+  padding: 7% 15%;
+  text-align: center;
+  background-color: rgb(255, 0, 106);
+  color: #fff;
+}
+#features {
+  padding: 7% 15%;
+  position: relative;
+
+  background-color: white;
+}
+#pricing {
+  padding: 3% 5% !important;
+  text-align: center;
+}
+#cta {
+  background-color: rgb(255, 0, 106);
+  color: white;
+  text-align: center;
+  padding: 3% 15% 5%;
+}
+#footer {
+  text-align: center;
+  padding: 5% 0%;
+}
+#title {
+  background-color: rgb(255, 0, 106);
+  color: white;
+}
